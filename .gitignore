@@ -1,0 +1,27 @@
+# Virtual environments
+analyze/
+venv/
+.env
+pyvenv.cfg
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Uploaded data / outputs
+uploads/
+outputs/
+
+# IDE / Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional test utilities
+mock_llm.py
+# Local / experimental LLM scripts
+llama.py

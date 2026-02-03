@@ -1,0 +1,10 @@
+#FOR SERVER LLM APPLICATION
+fastapi
+uvicorn
+python-multipart
+langchain
+langchain-ollama
+langchain-community
+pymupdf
+pandas
+matplotlib
